@@ -25,7 +25,7 @@ This project analyzes attendance and revenue data from On One Studios — a comm
 | **Python (Pandas, Seaborn, Matplotlib)** | Data cleaning, wrangling, exploratory analysis |
 | **SQL (Google BigQuery)**            | Filtering, cohort queries, retention analysis |
 | **Tableau**                          | Dashboard creation and data visualization     |
-| **Excel** (light use)                | Cross-checking reports and data export validation |
+| **Google Sheets** (light use)                | Cross-checking reports and data export validation |
 
 ## 🗂️ Data Sources
 
@@ -36,7 +36,7 @@ All data was extracted from the **MINDBODY** platform via the following reports:
 - Instructor Schedules
 - Class Signups
 
-> Personally identifiable information such as client names and instructor identities have been anonymized in accordance with data privacy best practices.
+> Personally identifiable information, such as client names and instructor identities, has been anonymized in accordance with data privacy best practices.
 
 ## 📈 Key Insights
 
@@ -56,7 +56,7 @@ As a stretch goal, logistic regression and random forest classification models w
 - Predict whether a class would meet a minimum attendance threshold.
 - Identify features most influential in class performance (e.g., instructor, time of day, class name).
 
-> These models were exploratory and not production-ready but demonstrate applied knowledge of sklearn pipelines and feature importance analysis.
+> These models were exploratory and not production-ready, but demonstrate applied knowledge of sklearn pipelines and feature importance analysis.
 
 ## 🛤️ Future Enhancements
 
